@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "YOU RAY",
+  "base_artist": "frederic",
+  "createdAt": "2025-12-05T18:06:23.547693Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Miss You Ray",
+      "artist": "Nils Lofgren",
+      "has_synced": true,
+      "path": "select/01_Miss_You_Ray_Nils_Lofgren.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "YOU RAY",
+      "artist": "Frederic",
+      "has_synced": true,
+      "path": "select/02_YOU_RAY_Frederic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Very Thought of You [Ray",
+      "artist": "Elvis Costello",
+      "has_synced": true,
+      "path": "select/03_The_Very_Thought_of_You_[Ray_Elvis_Costello.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Can'T Stop Loving You (Ray Charles)",
+      "artist": "Greatest Oldies",
+      "has_synced": true,
+      "path": "select/04_I_Can'T_Stop_Loving_You_(Ray_Charles)_Greatest_Oldies.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Fool For You (Ray Charles)",
+      "artist": "Harry Belafonte",
+      "has_synced": false,
+      "path": "select/05_A_Fool_For_You_(Ray_Charles)_Harry_Belafonte.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "To Be With You - Ray Knox Remix Edit",
+      "artist": "Andrew Spencer",
+      "has_synced": false,
+      "path": "select/06_To_Be_With_You_-_Ray_Knox_Remix_Edit_Andrew_Spencer.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "1962 - I Can't Stop Loving You - Ray Charles",
+      "artist": "Ray Charles",
+      "has_synced": true,
+      "path": "select/07_1962_-_I_Can't_Stop_Loving_You_-_Ray_Charles_Ray_Charles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I STILL CAN'T GET OVER LOVIN' YOU -  Ray Parker Jnr.",
+      "artist": "1983",
+      "has_synced": true,
+      "path": "select/08_I_STILL_CAN'T_GET_OVER_LOVIN'_YOU_-_Ray_Parker_Jnr._1983.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm Still Not Over You - Ray Price",
+      "artist": "Ray Price",
+      "has_synced": false,
+      "path": "select/09_I'm_Still_Not_Over_You_-_Ray_Price_Ray_Price.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Fool For You (Ray Charles)",
+      "artist": "Stevie Wonder",
+      "has_synced": false,
+      "path": "select/10_A_Fool_For_You_(Ray_Charles)_Stevie_Wonder.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Knew You Were Trouble.",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/11_I_Knew_You_Were_Trouble._Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Look What You Made Me Do",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/12_Look_What_You_Made_Me_Do_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "'Til You Can't",
+      "artist": "Cody Johnson",
+      "has_synced": true,
+      "path": "select/13_'Til_You_Can't_Cody_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Are You Bored Yet? (feat. Clairo)",
+      "artist": "Wallows feat. Clairo",
+      "has_synced": true,
+      "path": "select/14_Are_You_Bored_Yet__(feat._Clairo)_Wallows_feat._Clairo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Are You Bored Yet? (feat. Clairo)",
+      "artist": "Wallows;Clairo",
+      "has_synced": true,
+      "path": "select/15_Are_You_Bored_Yet__(feat._Clairo)_Wallows;Clairo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Are You Bored Yet? (feat. Clairo)",
+      "artist": "Wallows",
+      "has_synced": true,
+      "path": "select/16_Are_You_Bored_Yet__(feat._Clairo)_Wallows.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Are You Lonely (feat. ISÁK)",
+      "artist": "Steve Aoki feat. Alan Walker & Isak",
+      "has_synced": true,
+      "path": "select/17_Are_You_Lonely_(feat._ISÁK)_Steve_Aoki_feat._Alan_Walker_&_Isak.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Are You Lonely",
+      "artist": "Steve Aoki;Alan Walker;Isak",
+      "has_synced": true,
+      "path": "select/18_Are_You_Lonely_Steve_Aoki;Alan_Walker;Isak.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Can't Have Mine (Find You a Girl)",
+      "artist": "Dylan Scott",
+      "has_synced": true,
+      "path": "select/19_Can't_Have_Mine_(Find_You_a_Girl)_Dylan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Chasing After You",
+      "artist": "Ryan Hurd",
+      "has_synced": true,
+      "path": "select/20_Chasing_After_You_Ryan_Hurd.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Country'd Look Good On You",
+      "artist": "Frank Ray",
+      "has_synced": true,
+      "path": "select/21_Country'd_Look_Good_On_You_Frank_Ray.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker feat. Trevor Guthrie",
+      "has_synced": true,
+      "path": "select/22_Do_It_All_for_You_Alan_Walker_feat._Trevor_Guthrie.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker;Trevor Guthrie",
+      "has_synced": true,
+      "path": "select/23_Do_It_All_for_You_Alan_Walker;Trevor_Guthrie.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Don't Need You",
+      "artist": "Rameses B feat. Laura Brehm",
+      "has_synced": true,
+      "path": "select/24_Don't_Need_You_Rameses_B_feat._Laura_Brehm.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Don't Need You",
+      "artist": "Rameses B",
+      "has_synced": true,
+      "path": "select/25_Don't_Need_You_Rameses_B.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YOU RAY",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_01_YOU_RAY_フレデリック.txt"
+    }
+  ]
+}
